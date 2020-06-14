@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dinuscxj:ellipsizetextview:1.0.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0096a3de0a37897d91c175293d681f2b/jetified-ellipsizetextview-1.0.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0096a3de0a37897d91c175293d681f2b/jetified-ellipsizetextview-1.0.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dinuscxj/ellipsizetextview/1.0.5/99165dbf460bfee12c33c982616abbebf4dbf5b0/ellipsizetextview-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

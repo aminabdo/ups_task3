@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="bottomNavigationConstraintHeight">65dp</dimen>
+    <dimen name="bottomNavigationItemConstraintWidth">50dp</dimen>
+    <dimen name="applicationChatIconWidthAndHeight">34dp</dimen>
+    <dimen name="chatMessageMarginStartAndEnd">70dp</dimen>
+    <dimen name="deleteCartItem">27.1dp</dimen>
+    <dimen name="textSize10">10sp</dimen>
+    <dimen name="textSize12">12sp</dimen>
+    <dimen name="textSize13">13sp</dimen>
+    <dimen name="textSize14">14sp</dimen>
+    <dimen name="textSize15">15sp</dimen>
+    <dimen name="textSize16">16sp</dimen>
+    <dimen name="textSize17">17sp</dimen>
+    <dimen name="textSize18">18sp</dimen>
+    <dimen name="textSize20">20sp</dimen>
+    <dimen name="textSize22">22sp</dimen>
+    <dimen name="textSize25">25sp</dimen>
+</resources>

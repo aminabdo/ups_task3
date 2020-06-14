@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1038748339735",
+    "firebase_url": "https://happy-time-6390c.firebaseio.com",
+    "project_id": "happy-time-6390c",
+    "storage_bucket": "happy-time-6390c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038748339735:android:e19be743aa86ee3e711652",
+        "android_client_info": {
+          "package_name": "com.shoohna.happytimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038748339735-n0bb42m8sho6g1a3tqjkagh3c1c63kv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shoohna.happytimes",
+            "certificate_hash": "3379cebda56fbc6648c8acb6c1a832b7830e1247"
+          }
+        },
+        {
+          "client_id": "1038748339735-0ajogcc0icmv362st66939cnun6rejs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSS7R2_hUMUkbqZR0Ejknur8HDJkkEX6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038748339735-0ajogcc0icmv362st66939cnun6rejs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

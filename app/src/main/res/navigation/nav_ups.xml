@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_ups"
+
+
+    xmlns:tools="http://schemas.android.com/tools"
+
+    app:startDestination="@id/titles"
+
+    >
+    <fragment
+        android:id="@+id/titles"
+        android:name="com.shoohna.happytimes.upsTask.ui.titles.TitelsFragment"
+        android:label="fragment_titles"
+        tools:layout="@layout/fragment_test"
+        >
+
+        <argument
+            android:name="details"
+            app:argType="string"
+            />
+        <action
+            android:id="@+id/action_titles_to_details"
+            app:destination="@id/details" />
+    </fragment>
+    <fragment
+        android:id="@+id/details"
+        android:name="com.shoohna.happytimes.upsTask.ui.details.DetailsFragment"
+        android:label="fragment_details"
+        tools:layout="@layout/fragment_details_ups"
+        >
+
+
+    </fragment>
+
+</navigation>
